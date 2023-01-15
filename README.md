@@ -10,9 +10,9 @@
 <h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/github/stars/namphuongtran9196/namphuongtran9196" alt="stars"></a>
-<a href=""><img src="https://img.shields.io/github/forks/namphuongtran9196/namphuongtran9196" alt="forks"></a>
-<a href=""><img src="https://img.shields.io/github/license/namphuongtran9196/GitReleaseStorage" alt="license"></a>
+<a href=""><img src="https://img.shields.io/github/stars/Ncoder0/mobile-device" alt="stars"></a>
+<a href=""><img src="https://img.shields.io/github/forks/Ncoder0/mobile-device" alt="forks"></a>
+<a href=""><img src="https://img.shields.io/github/license/Ncoder0/mobile-device" alt="license"></a>
 </p>
 
 <p align="center">
@@ -58,5 +58,5 @@ MIT
 
 ---
 
-> GitHub [@namphuongtran9196](https://github.com/namphuongtran9196) &nbsp;&middot;&nbsp;
+> GitHub [@NCoder0](https://github.com/NCoder0) &nbsp;&middot;&nbsp;
 
